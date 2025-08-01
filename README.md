@@ -13,4 +13,4 @@ I'm a passionate student and web developer specializing in React and frontend de
 
 ---
 
-Feel free to connect or check out my projects!
+
